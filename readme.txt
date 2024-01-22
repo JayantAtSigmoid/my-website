@@ -2,7 +2,7 @@
 # README
 -----------------------
 CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
-
+Some changes added in example branch
 
 Template Info:
 -----------------------
